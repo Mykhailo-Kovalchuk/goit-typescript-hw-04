@@ -7,7 +7,7 @@
 Встановіть правильний тип useRef. Посилання endContentRef використовується для div, який міститься в кінці вмісту.
 
 Встановіть правильний тип для options (клас також може бути типом для options).
-
+ 
 ```ts
 import React, { useEffect, useRef } from "react";
 
